@@ -1,0 +1,8 @@
+export const PRIMARY = '#EF336E'
+export const ORANGE = '#F69240'
+export const WHITE = '#FFFFFF'
+export const PRIMARY_WHITE = '#FEECEB'
+export const SECONDARY_WHITE = '#FFE9D7'
+export const BLACK = '#000000'
+export const PRIMARY_BLACK = '#202020'
+export const PRIMARY_GREY = '#707070'
